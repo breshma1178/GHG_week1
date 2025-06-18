@@ -16,6 +16,9 @@ This dataset contains supply chain emission factors associated with various U.S.
 - **Units**: Measurement units (e.g., `[kg/2018 USD, purchaser price]`)
 
 ---
+### Model 
+-**Prediction Model**:GHG_Emissions_kgCO2e using regression model
+---
 
 ## 🔧 Steps Involved in Week 1 Project
 
