@@ -17,10 +17,10 @@ This dataset contains supply chain emission factors associated with various U.S.
 
 ---
 ### Model 
--**Prediction Model**:GHG_Emissions_kgCO2e using regression model
----
+-**Prediction Model**: GHG_Emissions_kgCO2e using regression model
 
-## 🔧 Steps Involved in Week 1 Project
+---
+### 🔧 Steps Involved in Week 1 Project
 
 1. **Importing libraries** (all necessary Python libraries)  
 2. **Loading dataset** (supply chain emission factors)  
